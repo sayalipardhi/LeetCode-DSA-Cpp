@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
