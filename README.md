@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0217-contains-duplicate) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -53,15 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -71,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
