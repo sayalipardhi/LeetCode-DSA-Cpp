@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/1920-build-array-from-permutation) |
@@ -96,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/sayalipardhi/LeetCode-DSA-Cpp/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
